@@ -2,4 +2,4 @@
 Made for the learning process
 
 
-https://trimbak15.github.io/E-Commerce-Website/index%20(1).html
+https://github.com/santmailo/basic_ecommerce/
